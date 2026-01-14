@@ -1,7 +1,7 @@
 // App.jsx
 import React, { useState } from 'react';
 import { Sparkles } from "lucide-react";
-import Navbar from './components/Navbar.jsx';
+
 
 
 
